@@ -1,0 +1,20 @@
+{
+  "name": "weather-journal",
+  "version": "1.0.0",
+  "description": "A weather journal app that lets users track weather conditions and personal feelings.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Masa Yaseen",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
+
